@@ -13,3 +13,11 @@ De so sanh code
 1. Tao nhanh moi dua tren nhanh chinh (main)
   - git checkout -b <branch name>
 
+
+
+so sanh code
+b1: learn 
+b2: pull requests
+b3: new pull requests
+b4: nho base la main con compare la dev
+b5: 
