@@ -20,4 +20,8 @@ b1: learn
 b2: pull requests
 b3: new pull requests
 b4: nho base la main con compare la dev
-b5: 
+b5: create pull requests
+b6: merge pull request
+b7: comfirm merge
+b8: vao lai learn
+b9: vao main va xem ket qua
